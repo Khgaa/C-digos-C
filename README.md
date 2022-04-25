@@ -1,2 +1,2 @@
-# C-digos-C
+# Codigos C
 Alguns códigos usando a linguagem C // Some codes using C language
