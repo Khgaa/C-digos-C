@@ -1,12 +1,4 @@
-/******************************************************************************
 
-                            Online C Compiler.
-                Code, Compile, Run and Debug C program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
-
-#include <stdio.h>
 
 int somatorio(int num1, int num2);
 int subtracao(int num1, int num2);
